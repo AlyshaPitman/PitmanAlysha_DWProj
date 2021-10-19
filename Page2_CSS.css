@@ -1,0 +1,141 @@
+@charset "utf-8";
+Body
+{
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+img
+{
+	position: absolute;
+}
+p
+{
+	position: absolute;
+}
+.text1
+{
+	left: 1700px;
+	top: 150px;
+	z-index: 1000;
+}
+.text2
+{
+	left: 1500px;
+	top: 300px;
+	z-index: 1000;
+}
+.text3
+{
+	left: 600px;
+	top: 250px;
+	z-index: 1000;
+}
+.text4
+{
+	left: 200px;
+	top: 350px;
+	z-index: 1000;
+}
+.text5
+{
+	left: 300px;
+	top: 500px;
+	z-index: 1000;
+}
+.text6
+{
+	left: 1800px;
+	top: 900px;
+	z-index: 1000;
+}
+.text7
+{
+	left: 1500px;
+	top: 600px;
+	z-index: 1000;
+}
+.text8
+{
+	left: 1800px;
+	top: 480px;
+	z-index: 1000;
+}
+.text9
+{
+	left: 1690px;
+	top: 360px;
+	z-index: 1000;
+}
+.text10
+{
+	left: 200px;
+	top: 200px;
+	z-index: 1000;
+}
+.text11
+{
+	left: 800px;
+	top: 50px;
+	z-index: 1000;
+}
+.text12
+{
+	left: 400px;
+	top: 820px;
+	z-index: 1000;
+}
+.text13
+{
+	left: 100px;
+	top: 900px;
+	z-index: 1000;
+}
+.text14
+{
+	left: 100px;
+	top: 100px;
+	z-index: 1000;
+}
+.text15
+{
+	left: 700px;
+	top: 400px;
+	z-index: 1000;
+}
+.text16
+{
+	left: 1440px;
+	top: 10px;
+	z-index: 1000;
+}
+.text17
+{
+	left: 70px;
+	top: 430px;
+	z-index: 1000;
+}
+.text18
+{
+	left: 1900px;
+	top: 40px;
+	z-index: 1000;
+}
+.text19
+{
+	left: 1950px;
+	top: 700px;
+	z-index: 1000;
+}
+.text20
+{
+	left: 400px;
+	top: 150px;
+	z-index: 1000;
+}
+.text21
+{
+	left: 600px;
+	top: 600px;
+	z-index: 1000;
+}
